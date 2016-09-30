@@ -2,15 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://www.infosecadvisers.com
+title: InfoSec Advisers
+email: arkadiyg@infosecadvisers.com
+author: Arkadiy Goykhberg
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+  Cloud Security, Cloud Migration, and DevOps Transforation consulting.
+copyright: 'Copyright &copy; 2016 InfoSec Advisers. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/arkadiyg
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/arkadiyg
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/arkadiyg
